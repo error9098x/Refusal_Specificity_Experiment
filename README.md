@@ -31,6 +31,8 @@ The experiment follows a contrastive vector approach:
 ## Key Findings
 
 The results strongly support the hypothesis that refusal and negativity are distinct mechanisms.
+<img width="2009" height="1174" alt="image" src="https://github.com/user-attachments/assets/489b4d41-442d-4010-8be1-a2e806850060" />
+
 
 | Vector Comparison | Cosine Similarity | Interpretation |
 | :--- | :--- | :--- |
